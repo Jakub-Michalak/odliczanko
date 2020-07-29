@@ -1,5 +1,10 @@
 import Vue from 'vue'
+import 'jquery';
+import 'bootstrap';
+import 'bootstrap/dist/css/bootstrap.min.css';
+import 'popper.js';
 import App from './App.vue'
+
 
 Vue.config.productionTip = false
 
